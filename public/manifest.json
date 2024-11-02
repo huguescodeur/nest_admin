@@ -1,0 +1,24 @@
+{
+  "short_name": "Nest F",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "house.png"
+      
+    },
+    {
+      "src": "house.png",
+      "type": "image/png"
+     
+    },
+    {
+      "src": "house.png",
+      "type": "image/png"
+      
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
